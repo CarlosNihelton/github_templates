@@ -47,7 +47,7 @@ body:
   attributes:
     label: Additional information
     description: |
-      Logs, links, screenshots, videos, or anything that may help us to understand and resolve the issue.
+      Drag and drop or paste here logs, links, screenshots, videos, or anything that may help us to understand and resolve the issue.
     placeholder: |
       - /var/log/installer/ubuntu_desktop_installer.log
       - /var/log/installer/subiquity-server-debug.log
